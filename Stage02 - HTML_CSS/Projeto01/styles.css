@@ -33,7 +33,7 @@ span, a {
 
 p, #footer {
     color: #7d7987;
-    
+
     font-size: 14px;
     line-height: 28px;
 }
@@ -49,4 +49,10 @@ p, #footer {
     margin: 0 auto 8px;
 
     border: 1px solid #ECEFF2;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
